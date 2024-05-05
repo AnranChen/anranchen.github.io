@@ -2,7 +2,7 @@
 title: Anran Chen, PhD
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Hi there, you have landed on Anran Chen's web page. This is still under construction. Please come back later!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
