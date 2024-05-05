@@ -93,7 +93,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Anran Chen, PhD" # Site name or title, also used in jekyll-seo-tag
+title: "Anran Chen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Hi there, you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
@@ -135,15 +135,15 @@ navigation_header:
 #  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by Anran Chen
-  url: https://darn.es
+- title: Created by Anran Chen, based on alebic
+  url: https://github.com/daviddarnes/alembic
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
+#  Twitter: https://twitter.com/DavidDarnes
   LinkedIn: https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/
   GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+#  link: https://darn.es
+#  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
