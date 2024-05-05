@@ -1,15 +1,13 @@
 ---
 title: Hi there,
 feature_text: |
-  ## Alembic
+  ## Anran Chen, PhD
   You have landed on Anran Chen's webpage. This is still under construction. Please come back later!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship."
 ---
 
 you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship.
-
-##{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ##☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" ##link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% ##include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Features
 
