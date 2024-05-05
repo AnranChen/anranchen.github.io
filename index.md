@@ -9,8 +9,8 @@ excerpt: "you have landed on the personal website of Anran Chen, a scientist at 
 
 you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship.
 
-[LinkedIN](https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/)
-[ResearchGate](https://www.researchgate.net/profile/Anran-Chen-6)
+- [LinkedIN](https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/)
+- [ResearchGate](https://www.researchgate.net/profile/Anran-Chen-6)
 
 
 ## Cancer Biology
