@@ -1,10 +1,10 @@
 ---
-title: Anran Chen, PhD
+title: Hi there,
 feature_text: |
   ## Alembic
   Hi there, you have landed on Anran Chen's web page. This is still under construction. Please come back later!
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
