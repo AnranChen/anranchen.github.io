@@ -15,7 +15,7 @@ $white: #ffffff !default;
 
 // Typography
 $bodytype: (
-  font-family: "Georgia, serif",
+  font-family: 'Open Sans, Arial, sans-serif',
   regular: 400,
   bold: 700,
   italic: italic,
@@ -23,14 +23,15 @@ $bodytype: (
 ) !default;
 
 $headingtype: (
-  font-family: '"Merriweather", serif',
+  font-family: 'Open Sans, Arial, sans-serif',
   regular: 400,
   bold: 700,
   cap-height: 0.75
 ) !default;
 
 $monospacetype: (
-  font-family: "Menlo, monospace",
+  // Keeping Menlo for monospaced type as it's typically used for code
+  font-family: 'Menlo, monospace',
   regular: 400,
   cap-height: 0.68
 ) !default;
