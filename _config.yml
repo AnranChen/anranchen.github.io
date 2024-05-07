@@ -94,7 +94,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Anran Chen" # Site name or title, also used in jekyll-seo-tag
-logo: "https://media.licdn.com/dms/image/D5603AQHy3U9lTd4v3Q/profile-displayphoto-shrink_400_400/0/1698255766455?e=1720656000&v=beta&t=n4qX2clxHLBD6hl-bKNnYPWF0lwL_RUlTf-yRVN93cQ" # Site logo, also used in jekyll-seo-tag
+logo: '/assets/logos/logo.webp' # Site logo, also used in jekyll-seo-tag
 description: "Hi there, you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
