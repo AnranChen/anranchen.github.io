@@ -3,7 +3,7 @@ title: gallery
 feature_text: |
   ## Gallery
   Welcome to my AI art lab
-feature_image: "assets/pictures/soft_cover2.png"
+feature_image: "https://github.com/AnranChen/anranchen.github.io/blob/main/assets/pictures/soft_cover2.png?raw=true"
 excerpt: "Welcome to my AI art lab"
 aside: true
 ---
