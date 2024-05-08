@@ -1,29 +1,27 @@
 <style>
-  .image-gallery {
-    overflow: auto;
-    margin-left: -1%!important;
-  }
-  .image-gallery a {
-    float: left;
-    display: block;
-    margin: 0 0 1% 1%;
-    width: 19%; /* Adjust if necessary */
-    text-align: center;
-    text-decoration: none!important;
-  }
-  .image-gallery a span {
-    display: block;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    white-space: nowrap;
-    padding: 3px 0;
-  }
-  .image-gallery a img {
-    width: 300px;  /* Set both width and height */
-    height: 300px; /* to 300 pixels */
-    display: block;
-    object-fit: cover; /* Add this to maintain aspect ratio while covering the area */
-  }
+.image-gallery {
+  overflow: auto;
+  margin-left: -1%!important;
+  display: flex;      /* Use flexbox layout */
+  flex-wrap: wrap;    /* Allow wrapping of items */
+  justify-content: space-around; /* Distribute space around items */
+}
+
+.image-gallery a {
+  display: block;
+  margin: 0.5%; /* This sets margin all around and can be adjusted */
+  width: calc(20% - 1%); /* Adjust width to fit 5 items per row, accounting for margin */
+  text-align: center;
+  text-decoration: none!important;
+  overflow: hidden; /* Prevents content from spilling out */
+}
+
+.image-gallery a img {
+  width: 100%;        /* Full width of the link area */
+  height: auto;       /* Maintain aspect ratio */
+  aspect-ratio: 1 / 1; /* Makes the image square */
+  object-fit: cover;  /* Cover the area of the block, might crop the image */
+}
 </style>
 
 <div class="image-gallery">
