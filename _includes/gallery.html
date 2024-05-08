@@ -1,10 +1,1 @@
-<div class="gallery">
-  {% for image in include.images %}
-    <a href="{{ image.url }}" target="_blank">
-      <img src="{{ image.url }}" alt="{{ image.alt | default: image.caption }}" width="{{ image.width | default: '100%' }}" height="{{ image.height | default: 'auto' }}">
-    </a>
-    {% if image.caption %}
-      <div class="caption">{{ image.caption }}</div>
-    {% endif %}
-  {% endfor %}
-</div>
+
