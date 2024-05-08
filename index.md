@@ -4,10 +4,10 @@ feature_text: |
   ## Anran Chen, PhD
   You have landed on Anran Chen's webpage. This is still under construction. Please come back later!
 feature_image: "assets/pictures/soft_cover.png"
-excerpt: "You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship."
+excerpt: "You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship."
 ---
 
-you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer biology, molecular biology, and entrepreneurship.
+you have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship.
 
 - I am a Senior Scientist at Repare Therapeutics (NASDAQ: RPTX), where I use data analysis and machine learning to pinpoint novel targets for cancer treatment.
 - I earned my BA in Natural Sciences from the University of Cambridge and my PhD in Molecular and Biomedical Sciences from Baylor College of Medicine. My PhD research advanced our understanding of resistance mechanisms in ER+ breast cancer.
