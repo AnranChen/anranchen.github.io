@@ -12,7 +12,8 @@
       file.extname == '.jpeg' or 
       file.extname == '.JPG' or 
       file.extname == '.JPEG' or
-      file.extname == '.png' %}
+      file.extname == '.png' or
+      file.extname == '.PNG' %}
 
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
