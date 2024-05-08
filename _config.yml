@@ -123,8 +123,6 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
-- title: Gallery
-  url: /gallery/
 #- title: Elements
 #  url: /elements/
 #- title: Blog
@@ -133,8 +131,8 @@ navigation_header:
 #  url: /categories/
 #- title: Search
 #  url: /search/
-#- title: Fork Alembic
-#  url: https://github.com/daviddarnes/alembic
+- title: Gallery
+  url: /gallery/
 
 navigation_footer:
 - title: Adopted Alembic Theme
