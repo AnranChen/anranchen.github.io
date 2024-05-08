@@ -1,5 +1,5 @@
 ---
-title: Hello!
+title: Welcome!
 feature_text: |
   ## Anran Chen, PhD
   You have landed on Anran Chen's webpage. This is still under construction. Please come back later!
