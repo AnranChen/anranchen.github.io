@@ -1,29 +1,26 @@
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
-
 <style>
 .image-gallery {
   overflow: auto;
   margin-left: -1%!important;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  display: flex;      /* Use flexbox layout */
+  flex-wrap: wrap;    /* Allow wrapping of items */
+  justify-content: space-around; /* Distribute space around items */
 }
 
 .image-gallery a {
   display: block;
-  margin: 0.25%;
-  width: calc(20% - 0.5%);
+  margin: 0.0001%; /* This sets margin all around and can be adjusted */
+  width: calc(20% - 0.01%); /* Adjust width to fit 5 items per row, accounting for margin */
   text-align: center;
   text-decoration: none!important;
-  overflow: hidden;
+  overflow: hidden; /* Prevents content from spilling out */
 }
 
 .image-gallery a img {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
+  width: 100%;        /* Full width of the link area */
+  height: auto;       /* Maintain aspect ratio */
+  aspect-ratio: 1 / 1; /* Makes the image square */
+  object-fit: cover;  /* Cover the area of the block, might crop the image */
 }
 </style>
 
@@ -40,18 +37,10 @@
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
-      <a href="{{ file.path }}" data-lightbox="image-gallery" title="{{ filename }}">
+      <a href="{{ file.path }}" title="{{ filename }}">
         <img src="{{ file.path }}" alt="{{ filename }}" />
       </a>
     {% endif %}
   {% endif %}
 {% endfor %}
 </div>
-
-<script>
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true,
-    'alwaysShowNavOnTouchDevices': true
-  });
-</script>
