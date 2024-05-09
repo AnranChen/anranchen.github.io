@@ -19,6 +19,20 @@
   }
 </style>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var links = document.querySelectorAll('.image-gallery a');
+    links.forEach(function(link) {
+      link.onclick = function(e) {
+        e.preventDefault(); // Prevent the default action
+        var href = this.href;
+        var features = 'width=1024,height=1024,scrollbars=yes,resizable=yes'; // Set features for the new window
+        window.open(href, '_blank', features); // Open the new window
+      };
+    });
+  });
+</script>
+
 <div class="image-gallery">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
