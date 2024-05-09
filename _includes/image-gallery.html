@@ -1,57 +1,37 @@
-<link href="/assets/lightbox.css" rel="stylesheet">
-
 <style>
-.image-gallery {
-  overflow: auto;
-  margin-left: -1%!important;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-}
-
-.image-gallery a {
-  display: block;
-  margin: 0.1%;
-  width: calc(20% - 0.5%);
-  text-align: center;
-  text-decoration: none!important;
-  overflow: hidden;
-}
-
-.image-gallery a img {
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1 / 1;
-  object-fit: cover;
-}
+  .image-gallery {
+    overflow: auto;
+    margin-left: -1%!important;
+  }
+  .image-gallery a {
+    float: left;
+    display: block;
+    margin: 0 0 1% 1%;
+    width: 19%; /* Adjust if necessary */
+    text-align: center;
+    text-decoration: none!important;
+  }
+  .image-gallery a img {
+    width: 300px;  /* Set both width and height */
+    height: 300px; /* to 300 pixels */
+    display: block;
+    object-fit: cover; /* Add this to maintain aspect ratio while covering the area */
+  }
 </style>
 
 <div class="image-gallery">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
-    {% if file.extname == '.jpg' or 
-      file.extname == '.jpeg' or 
-      file.extname == '.JPG' or 
-      file.extname == '.JPEG' or
-      file.extname == '.png' or
-      file.extname == '.PNG' %}
+    {% if file.extname == '.jpg' or file.extname == '.jpeg' or 
+          file.extname == '.JPG' or file.extname == '.JPEG' %}
 
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
-      <a href="{{ file.path }}" data-lightbox="image-gallery" title="{{ filename }}">
+      <a href="{{ file.path }}" title="{{ filename }}" target="_blank">
         <img src="{{ file.path }}" alt="{{ filename }}" />
       </a>
     {% endif %}
   {% endif %}
 {% endfor %}
 </div>
-
-<script src="/assets/lightbox.js"></script>
-<script>
-  lightbox.option({
-    'resizeDuration': 200,
-    'wrapAround': true,
-    'alwaysShowNavOnTouchDevices': true
-  });
-</script>
