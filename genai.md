@@ -16,7 +16,7 @@ Welcome to my Generative AI lab!
 
 [Your Wildest Dreams](https://chatgpt.com/g/g-AbirBOedD) creates fascinating images from simple prompts with hundreds of unexpected style combination
 
-{% include figure.html image="/assets/pictures/pandas.png" caption="prompt: Draw a few pandas in 1:2 landscape" width="1200" height="600" %}
+{% include figure.html image="/assets/pictures/pandas.png" caption="prompt: Draw a few pandas in 1:2 landscape" width="800" height="400" %}
 
 ### Stable Diffusion:
 [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion), developed by Stability AI,is an open-source generative AI model capable of creating high-quality images. I run this model on my personal cloud server to explore the intersection of art and AI technology. Below are some of my favorite artworks produced using Stable Diffusion. For more of my latest works, visit my [Instagram](https://www.instagram.com/anranandychen/?hl=en).
