@@ -2,7 +2,7 @@
 title: CV
 feature_text: |
   ## CV
-feature_image: "/assets/pictures/soft_cover2.png"
+feature_image: "/assets/pictures/soft_cover3.png"
 excerpt: "CV"
 aside: true
 ---
