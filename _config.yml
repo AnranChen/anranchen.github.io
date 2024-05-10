@@ -123,6 +123,10 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
 - title: Home
   url: /
+- title: CV
+  url: /cv/
+- title: GenAIs
+  url: /genai/
 #- title: Elements
 #  url: /elements/
 #- title: Blog
@@ -131,8 +135,6 @@ navigation_header:
 #  url: /categories/
 #- title: Search
 #  url: /search/
-- title: GenAIs
-  url: /genai/
 
 navigation_footer:
 - title: Adopted Alembic Theme
