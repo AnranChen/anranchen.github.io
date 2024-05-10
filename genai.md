@@ -1,12 +1,13 @@
 ---
-title: genAIs
+title: Generative AIs
 feature_text: |
-  ## Generative AIa
-  Welcome to my AI art lab
+  ## Generative AIs
 feature_image: "/assets/pictures/soft_cover2.png"
 excerpt: "Welcome to my AI art lab"
 aside: true
 ---
+
+Welcome to my Generative AI lab!
 
 ### GPT-4:
 [GPT-4](https://en.wikipedia.org/wiki/GPT-4), developed by OpenAI, is the latest iteration of the Generative Pre-trained Transformer series, known for its advanced language understanding and generation capabilities. I have configured and developed GPTs for specific applications to enhance productivity or spark creative ideas. Explore some of my custom GPT configurations:
