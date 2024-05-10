@@ -131,8 +131,8 @@ navigation_header:
 #  url: /categories/
 #- title: Search
 #  url: /search/
-- title: Gallery
-  url: /gallery/
+- title: GenAIs
+  url: /genai/
 
 navigation_footer:
 - title: Adopted Alembic Theme
