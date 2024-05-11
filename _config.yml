@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: CV
   url: /cv/
+- title: Cancer
+  url: /cancer/
 - title: GenAIs
   url: /genai/
 #- title: Elements
