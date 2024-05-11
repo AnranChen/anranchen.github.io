@@ -2,7 +2,6 @@
 title: Welcome!
 feature_text: |
   ## Anran Chen, PhD
-  🚧👷‍♂️🚧 This site is still under construction and testing, come back later!
 feature_image: "assets/pictures/soft_cover.png"
 excerpt: "You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship."
 ---
