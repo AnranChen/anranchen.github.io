@@ -1,7 +1,7 @@
 ---
-title: Cancer Biology
+title:  
 feature_text: |
-  ## Cancer Biology
+  # Cancer Biology
 feature_image: "/assets/pictures/soft_cover6.png"
 excerpt: "Cancer Biology"
 aside: true
