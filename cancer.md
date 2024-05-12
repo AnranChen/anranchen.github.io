@@ -8,7 +8,7 @@ aside: true
 ---
 
 _“知彼知己，百战不殆”_
-_(If you know the enemy and know yourself, you need not fear the result of a hundred battles)_ by Sun Tzu, 544 - 496 BC.
+_(If you know the enemy and know yourself, you need not fear the result of a hundred battles)_ -- Sun Tzu, 544 - 496 BC.
 
 The earliest descriptions of cancer date back to around 3000 BC, yet it was only about a century ago that cancer was recognized as a genetic disease. Traditional treatments such as surgery, radiation, and chemotherapy are still prevalent. While effective for some, these methods often do not precisely target cancer cells. The key to improving treatment outcomes involves understanding the molecular events that drive cancer, which can lead to more effective and less toxic personalized therapies like the HER2 antibody and antibody–drug conjugate (ADC) treatments for tumors with high HER2 expression. Despite the advancements, our overall understanding of cancer remains limited, leaving many types without known molecular mechanisms or effective targeted treatments. My research focuses on extracting molecular mechanisms from various models, from cell lines to patient samples, designing and performing experiments to verify these findings, and understanding the mechanisms of action to develop clinically feasible therapeutic strategies.
 
