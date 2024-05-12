@@ -1,4 +1,4 @@
-# Anran Chen's personal website, modified and forker from [Alembic](https://alembic.darn.es/)
+# Anran Chen's personal website, modified and forked from [Alembic](https://alembic.darn.es/)
 
 ## Credits
 
