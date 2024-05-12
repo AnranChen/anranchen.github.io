@@ -2,6 +2,11 @@
 
 ## Credits
 
+- Thank you [David Darnes](https://darn.es)/
+- image-gallery.html was modified from https://jekyllcodex.org/without-plugin/image-gallery/
+
+Alembic' Credits
+
 - Thanks to [Simple Icons](https://simpleicons.org/) for providing the brand icons, by [Dan Leech](https://twitter.com/bathtype)
 - Thanks to [Sassline](https://sassline.com/) for the typographic basis, by [Jake Giltsoff](https://twitter.com/jakegiltsoff)
 - Thanks to [Flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) by [Brian Franco](https://twitter.com/brianfranco)
