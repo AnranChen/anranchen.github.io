@@ -2,7 +2,7 @@
 
 ## Credits
 
-- Thank you [David Darnes](https://darn.es)/
+- Thank you [David Darnes](https://darn.es)
 - image-gallery.html was modified from https://jekyllcodex.org/without-plugin/image-gallery/
 
 Alembic' Credits
