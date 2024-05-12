@@ -1,5 +1,5 @@
 ---
-title:  
+title:
 feature_text: |
   # Cancer Biology
 feature_image: "/assets/pictures/soft_cover6.png"
