@@ -1,5 +1,5 @@
 ---
-title:
+title: CV
 feature_text: |
   # CV
 feature_image: "/assets/pictures/soft_cover3.png"
