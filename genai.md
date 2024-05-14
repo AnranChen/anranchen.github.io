@@ -1,7 +1,7 @@
 ---
 title: Generative AIs
 feature_text: |
-  ## Generative AIs
+  # Generative AIs
 feature_image: "/assets/pictures/soft_cover4.png"
 excerpt: "Welcome to my AI art lab"
 aside: true
