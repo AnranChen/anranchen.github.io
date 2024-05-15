@@ -17,19 +17,106 @@
     display: block;
     object-fit: cover; /* Add this to maintain aspect ratio while covering the area */
   }
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 60px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.9);
+  }
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+  }
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  .close:hover,
+  .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
 </style>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     var links = document.querySelectorAll('.image-gallery a');
-    links.forEach(function(link) {
+    var modal = document.createElement('div');
+    modal.classList.add('modal');
+    modal.innerHTML = '<span class="close">&times;</span><img class="modal-content" id="modal-image"><a class="prev">&#10094;</a><a class="next">&#10095;</a>';
+    document.body.appendChild(modal);
+
+    var modalImg = document.getElementById("modal-image");
+    var currentIndex = 0;
+
+    links.forEach(function(link, index) {
       link.onclick = function(e) {
-        e.preventDefault(); // Prevent the default action
-        var href = this.href;
-        var features = 'width=900,height=900,scrollbars=yes,resizable=yes'; // Set features for the new window
-        window.open(href, '_blank', features); // Open the new window
+        e.preventDefault();
+        modal.style.display = "block";
+        modalImg.src = this.href;
+        currentIndex = index;
       };
     });
+
+    var close = document.querySelector('.close');
+    close.onclick = function() {
+      modal.style.display = "none";
+    }
+
+    var prev = document.querySelector('.prev');
+    prev.onclick = function() {
+      currentIndex = (currentIndex - 1 + links.length) % links.length;
+      modalImg.src = links[currentIndex].href;
+    }
+
+    var next = document.querySelector('.next');
+    next.onclick = function() {
+      currentIndex = (currentIndex + 1) % links.length;
+      modalImg.src = links[currentIndex].href;
+    }
+
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
   });
 </script>
 
@@ -43,7 +130,7 @@
       {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
 
-      <a href="{{ file.path }}" title="{{ filename }}" target="_blank">
+      <a href="{{ file.path }}" title="{{ filename }}">
         <img src="{{ file.path }}" alt="{{ filename }}" />
       </a>
     {% endif %}
