@@ -97,7 +97,7 @@ title: "Anran Chen" # Site name or title, also used in jekyll-seo-tag
 logo: '/assets/logos/logo.webp' # Site logo, also used in jekyll-seo-tag
 description: "Hi there! You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship." # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "anranchen.github.io"
 repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
