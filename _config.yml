@@ -39,15 +39,12 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: AnranChen # jekyll-seo-tag > Owners twitter username
+author: Anran Chen # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Anran Chen # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -96,7 +93,7 @@ lang: en-GB # Set the site language
 title: "Anran Chen" # Site name or title, also used in jekyll-seo-tag
 logo: '/assets/logos/logo.webp' # Site logo, also used in jekyll-seo-tag
 description: "Hi there! You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship." # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "anranchen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 #email: "me@daviddarnes.com"
@@ -105,7 +102,7 @@ repo: "https://github.com/daviddarnes/alembic"
 # google_analytics: ""
 # google_analytics_anonymize_ip: ""
 # service_worker: false # Will turn off the service worker if set to false
-# short_name: "Al" # The web application short name, defaults to the site title
+short_name: "Anran Chen" # The web application short name, defaults to the site title
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
