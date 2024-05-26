@@ -140,8 +140,8 @@ navigation_footer:
   url: https://github.com/daviddarnes/alembic
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  LinkedIn: https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/
 #  Twitter: https://twitter.com/DavidDarnes
-LinkedIn: https://www.linkedin.com/in/anran-chen-ph-d-6386a5a9/
 #  GitHub: https://github.com/daviddarnes
 #  link: https://darn.es
 #  RSS: /feed.xml
