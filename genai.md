@@ -18,7 +18,7 @@ Welcome to my Generative AI lab!
 
 {% include figure.html image="/assets/pictures/pandas.png" caption="prompt: Draw a few pandas in 1:2 landscape" width="800" height="400" %}
 
-[GPT 4e](https://chatgpt.com/g/g-h4Zx6EvL9-gpt-4e){:target="_blank"} boosts efficiency by reduing tokens used. Slightly less polite, but more efficient.
+[GPT 4e](https://chatgpt.com/g/g-h4Zx6EvL9-gpt-4e){:target="_blank"} boosts efficiency by reduing tokens used. Straight forward, accurate, and efficient.
 
 {% include figure.html image="/assets/pictures/4e.png" caption="Comparing chatGPT 4o and GPT 4e" %}
 
