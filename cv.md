@@ -7,4 +7,4 @@ excerpt: "CV"
 aside: true
 ---
 
-Thank you for your attention to my professional details. Find my most updated CV [here](https://drive.google.com/uc?export=download&id=1H2QZd1aC3uZSWRBAG2z9ZwFoygfo_m0J){:target="_blank"}.
+Thank you for your attention to my professional details. Find my most updated CV [here](https://drive.google.com/file/d/1H8m38XHbywLzZJ5B3VDthkllkQTt82d_/view?usp=drive_link){:target="_blank"}.
