@@ -9,7 +9,7 @@ aside: true
 
 Welcome to my Generative AI lab!
 
-## GPT-4:
+## GPT:
 [Chat-GPT](https://en.wikipedia.org/wiki/GPT-4){:target="_blank"} is a generative artificial intelligence chatbot developed by OpenAI. I have configured and developed GPTs for specific applications to enhance productivity or spark creative ideas. Explore some of my custom GPT configurations:
 
 [Dear Friends](https://chatgpt.com/g/g-tgvhvuadi){:target="_blank"} improves the language and tone for your email while maintaining your original style
