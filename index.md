@@ -9,6 +9,7 @@ excerpt: "You have landed on the personal website of Anran Chen, a scientist at 
 ### Welcome!
 You have landed on the personal website of Anran Chen, a scientist at the intersection of cancer molecular biology, technology, and entrepreneurship.
 
+- Incoming HBS MBA Candidate, Class of 2028 — endlessly grateful to everyone who supported me along the way. Thank you!
 - Senior Scientist in oncology discovery at Bayer (FRA: BAYN) and former Senior Scientist in bioinformatics at Repare Therapeutics (NASDAQ: RPTX). I use data, biology, and strategic thinking to pinpoint novel targets for cancer treatment.
 - BA in Natural Sciences from the University of Cambridge and PhD in Molecular and Biomedical Sciences from Baylor College of Medicine. My PhD research focused on understanding the resistance mechanisms in ER+ breast cancer. Both of my works on [PKMYT1](https://www.bcm.edu/news/pkmyt1-a-potential-achilles-heel-of-treatment-resistant-er-breast-cancers-with-the-poorest-prognosis){:target="_blank"} and [NF1](https://www.bcm.edu/news/one-step-closer-to-improving-er-breast-cancer-patients-response-to-therapy){:target="_blank"} are featured at BCM news!
 - Contributor to [InScienceWeTrust Community](https://www.iswtc.org/){:target="_blank"}. Check out my [article on the KRAS landscape](https://www.linkedin.com/pulse/kras-g12cd-inhibition-era-pan-raskras-pfizer-novo-fight-over-metsera-ehjye/?trackingId=OgUFTEo6QHaiG29yFMfIng%3D%3D){:target="_blank"} and share your thoughts!
