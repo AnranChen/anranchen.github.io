@@ -2,8 +2,8 @@
 layout: post
 title: "KRAS G12C & G12D Inhibitors — Do They Still Matter in the Era of Pan-RAS?"
 date: 2025-11-02
-categories: [Oncology, RAS Pathway]
-author: iSWT Community
+categories: [Oncology, Biotech Newsletter]
+author: Anran Chen
 canonical_url: "https://www.linkedin.com/pulse/kras-g12cd-inhibition-era-pan-raskras-pfizer-novo-fight-over-metsera-ehjye/"
 ---
 
