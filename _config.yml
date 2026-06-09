@@ -126,12 +126,12 @@ navigation_header:
   url: /cancer/
 - title: GenAIs
   url: /genai/
+- title: Categories
+  url: /categories/
 #- title: Elements
 #  url: /elements/
 #- title: Blog
 #  url: /blog/
-#- title: Categories
-#  url: /categories/
 #- title: Search
 #  url: /search/
 
