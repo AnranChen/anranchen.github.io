@@ -4,7 +4,7 @@ title: "Post-Daraxonrasib Landscape of KRAS"
 date: 2026-06-07
 categories: [Oncology, Biotech Newsletter]
 author: Anran Chen
-canonical_url: "https://asianbiotechiesinabar.substack.com/p/conversation-with-eli-lillys-top"
+canonical_url: "https://substack.com/@asianbiotechiesinabar/p-200886897?utm_source=profile&utm_medium=reader2"
 ---
 
 > Originally published on Substack by [Asian Biotechies In A Bar](https://asianbiotechiesinabar.substack.com/) on June 7, 2026.
