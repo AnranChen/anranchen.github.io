@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Post-Daraxonrasib Landscape of KRAS"
+title: "After the Ovation: A Post-Daraxonrasib world of KRAS landscape"
 date: 2026-06-07
 categories: [Oncology, Biotech Newsletter]
 author: Anran Chen
-canonical_url: "https://substack.com/@asianbiotechiesinabar/p-200886897?utm_source=profile&utm_medium=reader2"
+canonical_url: "https://substack.com/@iswtcommunity/p-200886897#%C2%A7after-the-ovation-a-post-daraxonrasib-world-of-kras-landscape"
 ---
 
 > Originally published on Substack by [Asian Biotechies In A Bar](https://asianbiotechiesinabar.substack.com/) on June 7, 2026.
