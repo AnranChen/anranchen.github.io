@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Tango's Latest PRMT5 Data"
+title: "Tango's 92% ORR and the PRMT5 Revival: What the Data Does and Doesn't Settle"
 date: 2026-06-14
 categories: [Oncology, Biotech Newsletter]
 author: Anran Chen
-canonical_url: "https://asianbiotechiesinabar.substack.com/p/conversation-with-eli-lillys-top"
+canonical_url: "https://substack.com/@iswtcommunity/p-201878901"
 ---
 
 > Originally published on Substack by [Asian Biotechies In A Bar](https://asianbiotechiesinabar.substack.com/p/conversation-with-eli-lillys-top) on June 14, 2026.
