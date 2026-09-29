@@ -4,7 +4,7 @@ title: "Tango's 92% ORR and the PRMT5 Revival: What the Data Does and Doesn't Se
 date: 2026-06-14
 categories: [Oncology, Biotech Newsletter]
 author: Anran Chen
-canonical_url: "https://substack.com/@iswtcommunity/p-201878901"
+canonical_url: "https://substack.com/@iswtcommunity/p-201878901#%C2%A7tangos-92-orr-and-the-prmt5-revival-what-the-data-does-and-doesnt-settle"
 ---
 
 > Originally published on Substack by [Asian Biotechies In A Bar](https://asianbiotechiesinabar.substack.com/p/conversation-with-eli-lillys-top) on June 14, 2026.
